@@ -81,6 +81,7 @@
 - [AWS SageMaker](https://aws.amazon.com/sagemaker/) - A comprehensive platform for building, training, and deploying machine learning models on AWS.
 - [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) - A cloud-based platform for training, deploying, and managing machine learning models.
 - [Google AI Platform](https://cloud.google.com/ai-platform) - Google Cloud’s integrated environment for AI development and deployment.
+- [gpu.nz](https://gpu.nz/en) - A GPU cloud with per-minute billing, from RTX 3060 to H100, H200 and B200, with one-click ComfyUI, Ollama and vLLM templates.
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - A suite of tools for data science, machine learning, and AI model development.
 - [KubeStellar Console](https://github.com/kubestellar/console) - A CNCF Sandbox multi-cluster Kubernetes management dashboard for deploying and observing workloads across edge and cloud infrastructure.
 - [Lium (lium.io)](https://lium.io) - Decentralized GPU compute marketplace on Bittensor Subnet 51 for AI and machine learning workloads.
